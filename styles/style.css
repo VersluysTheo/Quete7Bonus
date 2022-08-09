@@ -1,0 +1,12 @@
+.text-right{
+    transform: translateX(-500px) translateY(450px);
+}
+.text-center{
+    transform: translateX(-200px) translateY(50px);
+}
+.text-left{
+    transform: translateX(20px) translateY(450px);
+}
+.text-bottom{
+    transform: translateX(650px) translateY(1100px);
+}
